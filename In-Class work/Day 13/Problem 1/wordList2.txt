@@ -1,0 +1,5 @@
+tree
+sky
+woods
+car
+house
